@@ -148,16 +148,11 @@ margin-left: 68%;
          color: #636363;
          margin-top: 30%; 
   }
-  .galeria{
-    width: 8%;
-    margin-left: 46%;
-    margin-top: 10%;
-  }
-  .cajacarusel img{
-    width: 20%;
-    margin-left: 5%;
 
-  }
+
+
+
+ 
   .mari_azul{
     width: 10%;
     margin-left: 45%;
@@ -172,27 +167,26 @@ margin-left: 68%;
 
 }
 
+.collage{
+  width: 100%;
+  margin-top: -4;
+}
+
+
+
+
+
+
 .parrafo1{
   margin: 15%;
     text-align: center;
-    color: #F6B3B2;
+    color: #506f90;
     font-size: 224%;
-    font-family: 'Great Vibes', cursive;
+     font-family: 'Dancing Script', cursive; 
+    
 }
-.parrafoDe{
 
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
-  text-align: center;
-  margin-top: 2%;
-  color: #313131;
-  font-weight: 500;
- 
- }
- .imagen4{
-width: 90%;
-margin-left: 5%;
- }
+
 
 .copas{
   width: 20%;
@@ -231,11 +225,11 @@ margin-left: 5%;
 }
 
 .parrafo2{
-  margin: 16%;
+  margin: 15%;
     text-align: center;
     color: #575757;
     font-size: 26px;
-    font-family: 'Great Vibes', cursive;
+     font-family: 'Dancing Script', cursive; 
 }
 .menu{
   font-family: 'Julius Sans One', sans-serif;
@@ -260,68 +254,57 @@ margin-left: 5%;
   outline: none;
   border-radius: 5px;
   z-index: 0;
-  background: #FBD9D9;
+  background: #274367;
   overflow: hidden;
-  border: 2px rgb(119, 119, 119);
-  color: rgb(86, 86, 86);
+  border: 3px rgb(191, 251, 248);
+  color: rgb(255, 255, 255);
   margin-top: -10%;
+  background-image: url(./imagenes/confeti.gif);
+  background-image: 50%;
 }
 
 .boton{
   margin-top: -5%;
 }
 
-.imagencuatro{
-  width: 80%;
-  margin-left: 10%;
+.carousel-inner .carousel-item {
+width: 75%;
+  margin-left: 14%;
 
 }
 
-.flor{
-  width: 25%;
-  margin-left: 80%;
-  margin-top: -245%;
-}
 
-.flor2{
-  width: 25%;
-  margin-left: -5%;
-margin-top: -25%;
- 
-}
 .parrafo3{
-  margin: 16%;
+ margin: 15%;
     text-align: center;
     color: #575757;
     font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: 10%;
+     font-family: 'Dancing Script', cursive; 
+     margin-top: 2%;
 }
 .parrafo03{
-  margin: 16%;
+ margin: 15%;
     text-align: center;
     color: #575757;
     font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
+     font-family: 'Dancing Script', cursive; 
+     margin-top: -5%;
 }
 .parrafo4{
-  margin: 15%;
+   margin: 15%;
     text-align: center;
-    color:#DA7665;
+    color: #575757;
     font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    font-weight: 500;
-    margin-top: -3%;
+     font-family: 'Dancing Script', cursive; 
+     margin-top: 2%;
 }
 
 .parrafo5{
-  margin: 15%;
-  margin-top: 15%;
+   margin: 15%;
     text-align: center;
-    color:#F6B3B2;
+    color: #506f90;
     font-size: 224%;
-    font-family: 'Great Vibes', cursive;
+     font-family: 'Dancing Script', cursive; 
 }
 
 .parrafo10{
@@ -333,12 +316,12 @@ margin-top: -25%;
 }
 
 .parrafo6{
-  margin: 16%;
+   margin: 15%;
     text-align: center;
     color: #575757;
     font-size: 26px;
-    font-family: 'Great Vibes', cursive;
-    margin-top: -5%;
+     font-family: 'Dancing Script', cursive; 
+     margin-top: -5%;
 }
 .parrafo7{
   margin: 16%;
@@ -402,7 +385,7 @@ margin-top: -25%;
 
 }
 .boton1{
-  margin-top: -15%;
+  margin-top: -5%;
 }
 
 .gifmariposas3{
@@ -431,7 +414,7 @@ margin-top: -25%;
   outline: none;
   border-radius: 5px;
   z-index: 0;
-  background: #FBD9D9;
+  background:#274367;
   overflow: hidden;
   border: 2px rgb(119, 119, 119);
   color: rgb(86, 86, 86);
